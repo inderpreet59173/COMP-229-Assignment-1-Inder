@@ -1,9 +1,13 @@
 {
-  "name": "week-4-express-generator",
-  "version": "0.0.0",
+  "name": "comp-229-assignment-1",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "start": "node ./server.js"
+  },
+  "engines": {
+    "node": "^16.00.0",
+    "npm": "^8.0.0"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.4",
@@ -16,5 +20,18 @@
     "jquery": "^3.6.0",
     "morgan": "~1.9.1",
     "popper.js": "^1.16.1"
-  }
+  },
+  "description": "Assignment 1 by Inderpreet Singh",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inderpreet59173/COMP-229-Assignment-1-Inder.git"
+  },
+  "author": "301143816 inderpreet singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inderpreet59173/COMP-229-Assignment-1-Inder/issues"
+  },
+  "homepage": "https://github.com/inderpreet59173/COMP-229-Assignment-1-Inder#readme"
 }
